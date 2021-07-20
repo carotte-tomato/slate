@@ -1,5 +1,13 @@
 # slate-react
 
+## 0.65.3
+
+### Patch Changes
+
+- [#4369](https://github.com/ianstormtaylor/slate/pull/4369) [`c217dbb5`](https://github.com/ianstormtaylor/slate/commit/c217dbb5b9190753298bbc117a49af940a3a0d53) Thanks [@thesunny](https://github.com/thesunny)! - Scroll when inserting new text will now scroll parent scrollables
+
+* [#4347](https://github.com/ianstormtaylor/slate/pull/4347) [`46c8871c`](https://github.com/ianstormtaylor/slate/commit/46c8871c9cafd3017b2c9afff9b36f0527c2205f) Thanks [@aiwenar](https://github.com/aiwenar)! - Re-render leaf when new properties were added to it
+
 ## 0.65.2
 
 ### Patch Changes
